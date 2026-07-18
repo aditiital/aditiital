@@ -1,3 +1,3 @@
 -  Hi, I’m @aditiital
 -  I’m interested in Coding and Web designing 
--  I’m currently learning Engineering Degree 
+ 
