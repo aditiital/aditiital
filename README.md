@@ -1,3 +1,3 @@
 -  Hi, I’m @aditiital
--  I’m interested in Coding and Web designing 
+-  Data Science Girl in love with Dashboards, graphs, and ML algorithms 
  
