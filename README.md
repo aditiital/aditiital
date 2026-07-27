@@ -1,16 +1,26 @@
 
-# Hi 👋, I'm Aditi Ital
+ 
+<div align="center">
 
-### Data Science Student • Full Stack Developer • AI & Machine Learning Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6C63FF,50:8B5CF6,100:3B82F6&text=Aditi%20Ital&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Data%20Science%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlign=50&descAlignY=58"/>
 
-<p align="center">
-<img src="YOUR_BANNER_LINK" width="100%">
+# 👋 Hello, I'm Aditi Ital
+
+### 💜 Data Science Student • Full Stack Developer • AI & Machine Learning Algorithm
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Building+AI-Powered+Applications;React+%7C+FastAPI+%7C+Python;Machine+Learning+Explorer;Always+Learning+🚀"/>
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=aditiital&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/aditiital?style=for-the-badge&color=8B5CF6"/>
+
+<img src="https://img.shields.io/github/stars/aditiital?style=for-the-badge&color=3B82F6"/>
+
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+AI-Powered+Applications;Data+Science+%7C+Machine+Learning;React+%7C+FastAPI+%7C+Python;Always+Learning+🚀">
-</p>
-
+</div>
 ---
 
 # 💜 About Me
@@ -19,96 +29,225 @@
 Name: Aditi Ital
 
 Education:
-  B.Tech CSE (Data Science)
-  RTMNU
-  S.B. Jain Institute of Technology, Nagpur
+  B.Tech Computer Science Engineering
+  Specialization: Data Science
 
-Learning:
-  - Python
-  - Data Structures & Algorithms
+Location:
+  Nagpur, Maharashtra, India
+
+Currently Learning:
+  - Artificial Intelligence
+  - Machine Learning
   - React
   - FastAPI
-  - Machine Learning
-  - Artificial Intelligence
   - Cloud Computing
+  - DSA
 
-Goal:
-  Build intelligent software that solves real-world problems.
+Interests:
+  - Full Stack Development
+  - AI Applications
+  - Data Visualization
+  - Open Source
+
+Mission:
+  Build impactful software that solves real-world problems.
 ```
-
 ---
 
 # ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,react,fastapi,nodejs,express,mongodb,mysql,git,github,vscode,docker,linux,figma"/>
-</p>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,python,c,java,js,react,nodejs,express,fastapi,mongodb,mysql,git,github,vscode,"/>
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-success?style=for-the-badge"/>
+
+</p>
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditiital&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiital&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aditiital&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aditiital&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiital&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+# 🚀 Featured Projects
+
+| 🚀 Project | 💡 Description |
+|------------|----------------|
+| 🤖 **Smart Job Recommendation System** | AI-powered job recommendation platform using Machine Learning, React and FastAPI. |
+| 📚 **Smart Library Management** | Library management system with issue/return records, fines and WhatsApp notifications. |
+| 🎓 **Student Score Prediction** | Machine Learning model that predicts student performance using data analysis techniques. |
+| 🖼 **Digital Image Processing Lab** | Python notebooks covering image enhancement, filtering and image processing concepts. |
+| 📊 **Data Analysis Lab** | Exploratory Data Analysis, visualization and Python practice notebooks. |
+| 💼 **Cognifyz Internship Work** | Real-world Data Science internship tasks involving Pandas, NumPy and Machine Learning. |
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚧 Currently Working On
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+- 🤖 AI Powered Applications
+- 💜 WishBloom - Interactive Birthday Website
+- 🌐 Full Stack Development
+- 📊 Data Science Projects
+- 🚀 Open Source Contributions
 
 ---
 
 # 🚀 Featured Projects
 
-> Coming Soon...
+<table>
+<tr>
 
-- 🛡 Women Safety App
-- 🎂 WishBloom
-- 🤖 Job Recommendation System
-- 📈 Machine Learning Projects
-- 🌐 Portfolio Website
+<td width="50%">
+
+
+
+### 🎓 Student Score Prediction
+
+Predicts student performance using Machine Learning algorithms and data visualization.
+
+**Tech Stack**
+
+`R` `Machine Learning`
+
+⭐ Coming Soon
+
+</td>
+
+<td width="50%">
+
+### 🎂 WishBloom
+
+A beautiful animated birthday website built using React with modern UI and animations.
+
+**Tech Stack**
+
+`React` `CSS` `JavaScript`
+
+⭐ Coming Soon
+
+</td>
+
+</tr>
+</table>
 
 ---
+# 🌱 Currently Exploring
 
-# 📄 Resume
-
-> Resume will be added soon.
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- ⚛ React Ecosystem
+- ⚡ FastAPI
+- ☁ Cloud Computing
+- 🌍 Open Source
+- 💻 Data Structures & Algorithms
 
 ---
+## 🌐 Connect With Me
 
-# 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/aditiital" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+
+  <a href="aditiital12@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ aditi-ital-31am12">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+<div align="center">
+
+### ✨ "Learning • Building • Growing • One Commit at a Time."
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</div>
+# 💭 Developer Philosophy
+
+> "I believe technology becomes meaningful when it solves real-world problems. Every project I build is another step toward becoming a better developer."
+
+---
+# 💻 Coding Profiles
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://github.com/aditiital">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
 
 </p>
 
 ---
+## 🐍 Contribution Snake
 
-# 🐍 Snake Animation
+<p align="center">
 
-Create `.github/workflows/snake.yml` later to enable the contribution snake.
+<img src="https://raw.githubusercontent.com/aditiital/aditiital/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
+<div align="center">
 
-> 💜 *Learning. Building. Growing. One commit at a time.*
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6C63FF,100:3B82F6"/>
+
+### 💜 Thanks for visiting my GitHub!
+
+⭐ If you like my work, consider following my journey.
+
+Made with ❤️ by **Aditi Ital**
+
+</div>
