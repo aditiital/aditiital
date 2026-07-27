@@ -21,7 +21,7 @@
 </p>
 
 </div>
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
 
 # 💜 About Me
 
@@ -52,7 +52,8 @@ Interests:
 Mission:
   Build impactful software that solves real-world problems.
 ```
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+
 
 # ⚡ Tech Stack
 
@@ -73,7 +74,8 @@ Mission:
 <img src="https://img.shields.io/badge/Full%20Stack-success?style=for-the-badge"/>
 
 </p>
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
 
 # 📊 GitHub Analytics
 
@@ -87,11 +89,12 @@ Mission:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aditiital&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=aditiital&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+
 # 🏆 GitHub Achievements
 
 <div align="center">
@@ -100,7 +103,8 @@ Mission:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+
 # 📈 Contribution Activity
 
 <div align="center">
@@ -109,19 +113,89 @@ Mission:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+
 # 🚀 Featured Projects
 
-| 🚀 Project | 💡 Description |
-|------------|----------------|
-| 🤖 **Smart Job Recommendation System** | AI-powered job recommendation platform using Machine Learning, React and FastAPI. |
-| 📚 **Smart Library Management** | Library management system with issue/return records, fines and WhatsApp notifications. |
-| 🎓 **Student Score Prediction** | Machine Learning model that predicts student performance using data analysis techniques. |
-| 🖼 **Digital Image Processing Lab** | Python notebooks covering image enhancement, filtering and image processing concepts. |
-| 📊 **Data Analysis Lab** | Exploratory Data Analysis, visualization and Python practice notebooks. |
-| 💼 **Cognifyz Internship Work** | Real-world Data Science internship tasks involving Pandas, NumPy and Machine Learning. |
+<table>
 
----
+<tr>
+
+<td width="50%">
+
+## 🤖 Smart Job Recommendation
+
+AI Powered Job Recommendation Platform
+
+💜 React
+
+💜 FastAPI
+
+💜 Machine Learning
+
+💜 Python
+
+⭐ [Repository](https://github.com/aditiital/Smart-Job-Recommendation-System)
+
+</td>
+
+<td width="50%">
+
+## 📚 Smart Library
+
+Library Management with WhatsApp Notifications
+
+💜 Node.js
+
+💜 HTML
+
+💜 JavaScript
+
+💜 MySQL
+
+⭐ [Repository](https://github.com/aditiital/smart_liabrary_management)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🎓 Student Score Prediction
+
+Machine Learning Prediction System
+
+💜 R
+
+💜 Data Analysis
+
+💜 ML
+
+⭐ Repository
+
+</td>
+
+<td>
+
+## 🎂 WishBloom
+
+Animated Birthday Website
+
+💜 React
+
+💜 CSS
+
+💜 Animations
+
+⭐ Repository
+
+</td>
+
+</tr>
+
+</table>
 
 # 🚧 Currently Working On
 
@@ -131,47 +205,8 @@ Mission:
 - 📊 Data Science Projects
 - 🚀 Open Source Contributions
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-
-
-### 🎓 Student Score Prediction
-
-Predicts student performance using Machine Learning algorithms and data visualization.
-
-**Tech Stack**
-
-`R` `Machine Learning`
-
-⭐ Coming Soon
-
-</td>
-
-<td width="50%">
-
-### 🎂 WishBloom
-
-A beautiful animated birthday website built using React with modern UI and animations.
-
-**Tech Stack**
-
-`React` `CSS` `JavaScript`
-
-⭐ Coming Soon
-
-</td>
-
-</tr>
-</table>
-
----
 # 🌱 Currently Exploring
 
 - 🤖 Artificial Intelligence
@@ -182,7 +217,8 @@ A beautiful animated birthday website built using React with modern UI and anima
 - 🌍 Open Source
 - 💻 Data Structures & Algorithms
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -190,28 +226,28 @@ A beautiful animated birthday website built using React with modern UI and anima
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
 
-  <a href="aditiital12@gmail.com">
+  <a href="mainto:aditiital12@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/ aditi-ital-31am12">
+  <a href="https://www.linkedin.com/in/aditi-ital-31am12/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
 <div align="center">
 
 ### ✨ "Learning • Building • Growing • One Commit at a Time."
 
-⭐ Thanks for visiting my GitHub Profile ⭐
-
 </div>
+
 # 💭 Developer Philosophy
 
 > "I believe technology becomes meaningful when it solves real-world problems. Every project I build is another step toward becoming a better developer."
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+
 # 💻 Coding Profiles
 
 <p align="center">
@@ -230,19 +266,25 @@ A beautiful animated birthday website built using React with modern UI and anima
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/aditiital/aditiital/output/github-contribution-grid-snake-dark.svg"/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/aditiital/aditiital/output/github-contribution-grid-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/aditiital/aditiital/output/github-contribution-grid-snake.svg" />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/aditiital/aditiital/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
----
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6C63FF,100:3B82F6"/>
+</p>
 
 ### 💜 Thanks for visiting my GitHub!
 
