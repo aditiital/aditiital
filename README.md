@@ -2,9 +2,14 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6C63FF,50:8B5CF6,100:3B82F6&text=Aditi%20Ital&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Data%20Science%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlign=50&descAlignY=58"/>
+<p align="center">
+  <img src="./assets/images/banner.png" width="100%" alt="Aditi Ital Banner">
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5B7DB1&center=true&vCenter=true&width=700&lines=Data+Science+Student;Full+Stack+Developer;AI+%26+Machine+Learning;Always+Learning+🚀"/>
+</p>
 
-# 👋 Hello, I'm Aditi Ital
+# Hie✨, I'm Aditi Ital
 
 ### 💜 Data Science Student • Full Stack Developer • AI & Machine Learning Algorithm
 
@@ -81,19 +86,33 @@ Mission:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditiital&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditiital&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiital&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiital&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aditiital&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=aditiital&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditiital&theme=tokyo-night&hide_border=true&radius=12"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditiital&theme=tokyonight"/>
+
+</div>
 
 # 🏆 GitHub Achievements
 
@@ -272,24 +291,33 @@ Animated Birthday Website
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/aditiital/aditiital/output/github-contribution-grid-snake-dark.svg" />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/aditiital/aditiital/output/github-contribution-grid-snake.svg" />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/aditiital/aditiital/output/github-contribution-grid-snake.svg" />
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/aditiital/aditiital/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
   </picture>
 </p>
 
 </p>
 
-### 💜 Thanks for visiting my GitHub!
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9CA3AF"/>
 
+<div align="center">
+
+<h2>Thanks for Visiting...💜!</h2>
+
+<p>
+Always learning • Always building • One commit at a time.
+</p>
+
+<p>
 ⭐ If you like my work, consider following my journey.
+</p>
 
-Made with ❤️ by **Aditi Ital**
+<p>
+Made with 🤍 by <strong>Aditi Ital</strong>
+</p>
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:F8FAFC,50:E2E8F0,100:CBD5E1"/>
 </div>
