@@ -82,37 +82,23 @@ Mission:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
 
-# 📊 GitHub Analytics
+# 📊 Development Focus
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditiital&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiital&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=aditiital&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditiital&theme=tokyo-night&hide_border=true&radius=12"/>
+| Technology | Progress |
+|------------|----------|
+| 🐍 Python | ██████████████ 90% |
+| 🤖 Artificial Intelligence | █████████████ 85% |
+| 🧠 Machine Learning | ████████████ 80% |
+| ⚛ React | ███████████ 75% |
+| ⚡ FastAPI | ██████████ 70% |
+| 📊 Data Science | ████████████ 80% |
+| 💻 Full Stack Development | ████████████ 80% |
 
 </div>
 
----
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditiital&theme=tokyonight"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9CA3AF"/>
 
 # 🏆 GitHub Achievements
 
